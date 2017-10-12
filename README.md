@@ -50,6 +50,7 @@ Sometimes customers don't login till they get to the checkout so we log the cust
 Using the shell script included you can import all exiting sales data i.e Customers, Products and the action of conversion to kick start your data feeds. Just run the following command from your web root- 
 
 ``cp shell/backlogload.php {{base_dir}}/shell/``
+
 ``php shell/backlogload.php --stores store1,store2``
 
 Where --stores looks for a comma seperated list of store names to import from. If you don't supply `--stores` then all stores in your Magento installation will be imported.

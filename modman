@@ -1,3 +1,2 @@
 app/code/community/Hackathon/Predictionio/ app/code/community/Hackathon/Predictionio/
 app/etc/modules/Hackathon_Predictionio.xml app/etc/modules/Hackathon_Predictionio.xml
-shell/similarity.php shell/similarity.php
